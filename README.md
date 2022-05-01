@@ -1,2 +1,0 @@
-# SurveyBlockchain
-Project Hub Epitech
